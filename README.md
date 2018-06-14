@@ -1,2 +1,2 @@
 # hello-world
-just some files
+Now I know HTML, CSS and JS.
